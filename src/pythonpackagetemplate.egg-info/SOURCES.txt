@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.py
+src/pythonpackagetemplate/__init__.py
+src/pythonpackagetemplate/main.py
+src/pythonpackagetemplate.egg-info/PKG-INFO
+src/pythonpackagetemplate.egg-info/SOURCES.txt
+src/pythonpackagetemplate.egg-info/dependency_links.txt
+src/pythonpackagetemplate.egg-info/requires.txt
+src/pythonpackagetemplate.egg-info/top_level.txt
+src/pythonpackagetemplate/utils/__init__.py
+src/pythonpackagetemplate/utils/helperutils.py
