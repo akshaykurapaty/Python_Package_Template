@@ -1,1 +1,1 @@
-This is a simple package setup template to be used for future whenever user wnats to create a new python package from scratch 
+This is a simple package setup template to be used for future whenever user wants to create a new python package from scratch 
